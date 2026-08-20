@@ -157,7 +157,7 @@ The dashboard follows a consistent **purple-themed professional design** with:
 
 ## 📷 Dashboard Preview
 
-![HR & Business Performance Dashboard](./https://github.com/raghavverma200420-star/HR-Business-Performance-Dashboard/blob/c68a72aea382b3c9ed3a68f40ed9d2a995010ecd/Dashboard_Screenshort.png)
+![HR & Business Performance Dashboard](https://github.com/raghavverma200420-star/HR-Business-Performance-Dashboard/blob/c68a72aea382b3c9ed3a68f40ed9d2a995010ecd/Dashboard_Screenshort.png)
 
 ---
 
@@ -204,5 +204,3 @@ Through this project, I improved my ability to:
 **Skills:** Power BI • DAX • Excel • Data Analytics
 
 ---
-
-⭐ **If you find this project useful, feel free to explore the repository and share your feedback.**
